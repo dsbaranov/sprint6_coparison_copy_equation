@@ -1,0 +1,3 @@
+/home/keinmann/Documents/Studying/cpp/yandex/sprint6/comparison_copy_equation5/build/CMakeFiles/comparison_copy_equation5.dir
+/home/keinmann/Documents/Studying/cpp/yandex/sprint6/comparison_copy_equation5/build/CMakeFiles/edit_cache.dir
+/home/keinmann/Documents/Studying/cpp/yandex/sprint6/comparison_copy_equation5/build/CMakeFiles/rebuild_cache.dir

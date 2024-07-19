@@ -1,7 +1,8 @@
 [
 {
-  "directory": "/home/keinmann/Documents/Studying/cpp/yandex/sprint6/comparison_copy_equation5/build",
-  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/comparison_copy_equation5.dir/main.cpp.o -c /home/keinmann/Documents/Studying/cpp/yandex/sprint6/comparison_copy_equation5/main.cpp",
-  "file": "/home/keinmann/Documents/Studying/cpp/yandex/sprint6/comparison_copy_equation5/main.cpp"
+  "directory": "C:/Users/baranov_d/Documents/yandex/sprint6/sprint6_coparison_copy_equation/build",
+  "command": "C:\\Software\\msys64\\mingw64\\bin\\c++.exe -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\comparison_copy_equation5.dir\\main.cpp.obj -c C:\\Users\\baranov_d\\Documents\\yandex\\sprint6\\sprint6_coparison_copy_equation\\main.cpp",
+  "file": "C:\\Users\\baranov_d\\Documents\\yandex\\sprint6\\sprint6_coparison_copy_equation\\main.cpp",
+  "output": "CMakeFiles\\comparison_copy_equation5.dir\\main.cpp.obj"
 }
 ]
